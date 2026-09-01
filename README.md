@@ -58,20 +58,19 @@ npm start        # запуск собранного приложения
 серверных зависимостей (БД, API-роуты, переменные окружения) нет. Поэтому
 бесплатного тарифа Vercel Hobby достаточно.
 
-1. Создать на GitHub пустой репозиторий (без README и .gitignore), например
-   `volar-catalog-v2`.
+1. Создать на GitHub пустой репозиторий (без README и .gitignore).
 2. Привязать и отправить код:
 
    ```bash
-   git remote add origin https://github.com/<логин>/volar-catalog-v2.git
+   git remote add origin https://github.com/kixenzz-ux/volarby.git
    git push -u origin main
    ```
 
-3. На https://vercel.com/new войти через GitHub, выбрать репозиторий и нажать
-   Deploy. Настройки менять не нужно — Vercel сам определяет Next.js
+3. На https://vercel.com/new войти через GitHub, выбрать репозиторий `volarby`
+   и нажать Deploy. Настройки менять не нужно — Vercel сам определяет Next.js
    (`next build`, вывод `.next`).
 4. Через ~2 минуты сайт доступен по адресу вида
-   `https://volar-catalog-v2.vercel.app`. Каждый следующий `git push` в `main`
+   `https://volarby.vercel.app`. Каждый следующий `git push` в `main`
    пересобирает и публикует сайт автоматически.
 
 Альтернатива без GitHub — CLI (потребуется вход через браузер один раз):
