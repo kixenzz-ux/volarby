@@ -1,5 +1,6 @@
+import Image from "next/image";
 import Link from "next/link";
-import { company } from "@/lib/site";
+import { company, siteImages } from "@/lib/site";
 
 export const metadata = {
   title: "Контакты — VOLAR.by",
@@ -15,11 +16,24 @@ export default function ContactsPage() {
         / <span className="text-foreground">Контакты</span>
       </nav>
 
-      <div className="rounded-lg border border-border bg-surface p-6 shadow-sm">
-        <h1 className="text-3xl font-extrabold tracking-tight">Контакты</h1>
-        <p className="mt-2 text-muted">
-          Свяжитесь с нами удобным способом — ответим на вопросы по ассортименту,
-          ценам и доставке.
+      <div className="overflow-hidden rounded-lg border border-border bg-surface shadow-sm">
+        <div className="relative h-40 w-full sm:h-48">
+          <Image
+            src={siteImages.delivery}
+            alt="Бензовоз для доставки масел по Беларуси"
+            fill
+            priority
+            sizes="(max-width: 896px) 100vw, 896px"
+            className="object-cover object-center"
+          />
+          <div className="absolute inset-0 bg-gradient-to-r from-foreground/70 to-transparent" />
+          <h1 className="absolute bottom-5 left-6 text-3xl font-extrabold tracking-tight text-background drop-shadow">
+            Контакты
+          </h1>
+        </div>
+        <p className="p-6 text-muted">
+          Свяжитесь с нами удобным способом — ответим на вопросы по
+          ассортименту, ценам и доставке.
         </p>
       </div>
 
@@ -80,4 +94,3 @@ export default function ContactsPage() {
     </div>
   );
 }
-

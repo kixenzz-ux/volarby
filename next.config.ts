@@ -1,17 +1,6 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "volar.by",
-        port: "",
-        pathname: "/wp-content/uploads/**",
-        search: "",
-      },
-    ],
-  },
-};
+// Все изображения лежат локально в public/ — внешние хосты не нужны.
+const nextConfig: NextConfig = {};
 
 export default nextConfig;

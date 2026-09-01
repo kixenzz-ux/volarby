@@ -1,4 +1,5 @@
-import { advantages, type Advantage } from "@/lib/site";
+import Image from "next/image";
+import { advantages, siteImages, type Advantage } from "@/lib/site";
 
 function Icon({ type }: { type: Advantage["icon"] }) {
   const common = {
@@ -49,9 +50,16 @@ export default function Advantages() {
 
       <div className="mt-8 overflow-hidden rounded-2xl border border-border bg-surface shadow-sm">
         {/* Баннер */}
-        <div className="relative h-52 w-full bg-gradient-to-br from-accent via-accent to-foreground sm:h-72 md:h-80">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_120%,rgba(245,158,11,0.55),transparent_55%)]" />
-          <div className="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-surface to-transparent" />
+        <div className="relative h-52 w-full overflow-hidden sm:h-72 md:h-80">
+          <Image
+            src={siteImages.advantagesBanner}
+            alt="Автомагистраль на закате — масла VOLAR в дороге"
+            fill
+            sizes="(max-width: 1280px) 100vw, 1280px"
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-foreground/45 via-transparent to-transparent" />
+          <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-surface to-transparent" />
         </div>
 
         {/* Карточки */}
@@ -67,7 +75,9 @@ export default function Advantages() {
               <h3 className="mt-5 text-base font-bold uppercase leading-snug tracking-wide text-accent">
                 {a.title}
               </h3>
-              <p className="mt-3 text-sm leading-relaxed text-muted">{a.text}</p>
+              <p className="mt-3 text-sm leading-relaxed text-muted">
+                {a.text}
+              </p>
             </div>
           ))}
         </div>

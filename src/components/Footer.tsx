@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { categories } from "@/lib/catalog";
 import { company, infoLinks } from "@/lib/site";
@@ -8,9 +9,13 @@ export default function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:grid-cols-2 lg:grid-cols-4">
         <div>
           <div className="mb-3 flex items-center gap-2">
-            <span className="flex h-9 w-9 items-center justify-center rounded-md bg-accent font-black text-white">
-              V
-            </span>
+            <Image
+              src="/site/logo-mark-white.png"
+              alt="Логотип VOLAR"
+              width={50}
+              height={51}
+              className="h-9 w-auto"
+            />
             <span className="text-lg font-extrabold">VOLAR.by</span>
           </div>
           <p className="text-sm text-background/70">
@@ -99,4 +104,3 @@ export default function Footer() {
     </footer>
   );
 }
-

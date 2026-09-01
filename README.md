@@ -23,7 +23,11 @@ src/
     contacts/page.tsx       — контакты
   components/               — Header, Footer, ProductCard
   lib/catalog.ts            — типизированный доступ к данным
+  lib/site.ts               — контакты, преимущества, пути к изображениям
   data/catalog.json         — данные каталога (генерируются)
+public/
+  products/                 — фото товаров (локальные копии)
+  site/                     — логотип и изображения оформления
 scripts/
   convert_catalog.py        — CSV -> catalog.json
 ```
@@ -41,6 +45,8 @@ python scripts/convert_catalog.py
 - читает `../volar-parser/volar_catalog.csv`;
 - восстанавливает категорию по slug товара, если в CSV она пустая;
 - извлекает технические характеристики (ТУ BY/ГОСТ, вязкость, температура застывания);
+- подставляет локальное фото из `public/products` по карте `IMAGE_BY_SLUG`
+  (для не описанных товаров — бочка VOLAR из `DEFAULT_IMAGE`);
 - пишет `src/data/catalog.json`.
 
 ## Запуск
@@ -82,7 +88,7 @@ npx vercel --prod
 
 ## Замечания
 
-- Изображения берутся напрямую с `volar.by` (разрешено в `next.config.ts`
-  через `images.remotePatterns`).
+- Все изображения хранятся локально в `public/` (`products/` — фото товаров,
+  `site/` — логотип и баннеры), поэтому сайт не зависит от доступности
+  `volar.by`; `images.remotePatterns` в `next.config.ts` больше не нужен.
 - Данные демонстрационные — получены парсером с сайта volar.by.
-

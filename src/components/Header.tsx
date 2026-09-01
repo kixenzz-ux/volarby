@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { categories } from "@/lib/catalog";
 import { company } from "@/lib/site";
@@ -32,9 +33,14 @@ export default function Header() {
       {/* Main bar */}
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-4 py-4">
         <Link href="/" className="flex items-center gap-3">
-          <span className="flex h-11 w-11 items-center justify-center rounded-md bg-accent text-lg font-black text-white">
-            V
-          </span>
+          <Image
+            src="/site/logo-mark.png"
+            alt="Логотип VOLAR"
+            width={137}
+            height={139}
+            priority
+            className="h-11 w-auto"
+          />
           <span className="flex flex-col leading-tight">
             <span className="text-xl font-extrabold tracking-tight">
               VOLAR<span className="text-accent">.by</span>
@@ -85,4 +91,3 @@ export default function Header() {
     </header>
   );
 }
-

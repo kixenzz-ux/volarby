@@ -63,3 +63,34 @@ export const advantages: Advantage[] = [
     text: "Использование качественного моторного масла снижает сопротивление движущихся частей, что может привести к экономии топлива и снижению выбросов вредных веществ в атмосферу.",
   },
 ];
+
+// Изображения оформления сайта (public/site) — локальные копии с volar.by,
+// поэтому не зависят от доступности внешнего хостинга.
+export const siteImages = {
+  logo: "/site/logo.png",
+  logoMark: "/site/logo-mark.png",
+  logoMarkWhite: "/site/logo-mark-white.png",
+  heroBackground: "/site/doroga-gorod.jpg",
+  heroProduct: "/products/volar-bochka.png",
+  advantagesBanner: "/site/doroga-zakat.jpg",
+  catalogBanner: "/site/maslo-naliv.jpg",
+  delivery: "/site/benzovoz.jpg",
+  barrelPhoto: "/site/bochka-volar-foto.jpg",
+} as const;
+
+// Обложка категории для карточек каталога.
+export const categoryImages: Record<string, string> = {
+  "motornoe-maslo": "/products/volar-ultra-5w40.jpg",
+  "gidravlicheskoe-maslo": "/products/hlp-32.jpg",
+  "transmissionnoe-maslo": "/products/tep-15.jpg",
+  "maslo-industrialnoe": "/products/i-20a.jpg",
+  "maslo-kompressornoe": "/products/ks-19.png",
+  "masla-czepnye": "/products/volar-bochka.png",
+  "masla-reduktornye": "/products/clp-100.jpg",
+  "masla-turbinnye": "/products/mgt.jpg",
+  "masla-zakalochnye": "/products/volar-bochka-sinyaya.jpg",
+};
+
+export function categoryImage(slug: string): string {
+  return categoryImages[slug] ?? "/products/volar-bochka.png";
+}

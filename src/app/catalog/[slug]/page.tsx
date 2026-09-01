@@ -1,11 +1,9 @@
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import {
-  categories,
-  getCategory,
-  productsByCategory,
-} from "@/lib/catalog";
+import { categories, getCategory, productsByCategory } from "@/lib/catalog";
 import ProductCard from "@/components/ProductCard";
+import { categoryImage } from "@/lib/site";
 
 export function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }));
@@ -15,9 +13,7 @@ export async function generateMetadata(props: PageProps<"/catalog/[slug]">) {
   const { slug } = await props.params;
   const category = getCategory(slug);
   return {
-    title: category
-      ? `${category.title} — VOLAR.by`
-      : "Категория — VOLAR.by",
+    title: category ? `${category.title} — VOLAR.by` : "Категория — VOLAR.by",
   };
 }
 
@@ -43,11 +39,23 @@ export default async function CategoryPage(
         / <span className="text-foreground">{category.title}</span>
       </nav>
 
-      <div className="rounded-lg border border-border bg-surface p-6 shadow-sm">
-        <h1 className="text-3xl font-extrabold tracking-tight">
-          {category.title}
-        </h1>
-        <p className="mt-2 text-muted">{items.length} товаров</p>
+      <div className="flex items-center gap-5 rounded-lg border border-border bg-surface p-6 shadow-sm">
+        <span className="relative h-20 w-20 shrink-0 overflow-hidden rounded-lg bg-white sm:h-24 sm:w-24">
+          <Image
+            src={categoryImage(category.slug)}
+            alt={category.title}
+            fill
+            priority
+            sizes="96px"
+            className="object-contain p-2"
+          />
+        </span>
+        <div>
+          <h1 className="text-3xl font-extrabold tracking-tight">
+            {category.title}
+          </h1>
+          <p className="mt-2 text-muted">{items.length} товаров</p>
+        </div>
       </div>
 
       <div className="mt-8 grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4">
