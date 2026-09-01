@@ -1,0 +1,1794 @@
+{
+  "categories": [
+    {
+      "slug": "gidravlicheskoe-maslo",
+      "title": "Гидравлическое масло",
+      "count": 16
+    },
+    {
+      "slug": "masla-zakalochnye",
+      "title": "Масла закалочные",
+      "count": 3
+    },
+    {
+      "slug": "masla-reduktornye",
+      "title": "Масла редукторные",
+      "count": 5
+    },
+    {
+      "slug": "masla-turbinnye",
+      "title": "Масла турбинные",
+      "count": 1
+    },
+    {
+      "slug": "masla-czepnye",
+      "title": "Масла цепные",
+      "count": 4
+    },
+    {
+      "slug": "maslo-industrialnoe",
+      "title": "Масло индустриальное",
+      "count": 12
+    },
+    {
+      "slug": "maslo-kompressornoe",
+      "title": "Масло компрессорное",
+      "count": 2
+    },
+    {
+      "slug": "motornoe-maslo",
+      "title": "Моторное масло",
+      "count": 12
+    },
+    {
+      "slug": "transmissionnoe-maslo",
+      "title": "Трансмиссионное масло",
+      "count": 4
+    }
+  ],
+  "products": [
+    {
+      "slug": "motornoe-maslo-m8v-mineralnoe-18-kg-20-l",
+      "name": "Моторное масло М8В минеральное (18 кг / 20 л)",
+      "article": "",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/kupit-maslo-m_8v.800x600w.jpg",
+      "imageWidth": 250,
+      "imageHeight": 283,
+      "sourceUrl": "https://volar.by/motornoe-maslo-m8v-mineralnoe-18-kg-20-l/",
+      "specs": [],
+      "description": ""
+    },
+    {
+      "slug": "maslo-motornoe-volar-ultra-sae-5w-40-api-sn-cf",
+      "name": "Масло моторное VOLAR Ultra SAE 5w-40 API SN/CF",
+      "article": "ТУ BY 691772248.015-2024",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-volar-ultra-sae-5w-40-api-sn-cf/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.015-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "12,5-16,3"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-37"
+        }
+      ],
+      "description": "Для бензиновых и дизельных двигателей легковых автомобилей, внедорожников и легкого коммерческого транспорта европейских, азиатских и американских производителей. Соответствует API SN/CF, совместимо с катализаторами."
+    },
+    {
+      "slug": "maslo-motornoe-dlya-avtotraktornyh-dizelej-m-10g2k",
+      "name": "Масло моторное для автотракторных дизелей М-10Г2К",
+      "article": "ГОСТ 8581-2021",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-dlya-avtotraktornyh-dizelej-m-10g2k/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ГОСТ 8581-2021"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "10,5-11,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": "Для дизельных двигателей сельскохозяйственной, дорожно-строительной и коммерческой техники (тракторы, комбайны, грузовики, автобусы) с умеренным наддувом и без него. Соответствует API CC."
+    },
+    {
+      "slug": "maslo-motornoe-dlya-avtotraktornyh-dizelej-m-10dm",
+      "name": "Масло моторное для автотракторных дизелей М-10ДМ",
+      "article": "ГОСТ 8581-2021",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-dlya-avtotraktornyh-dizelej-m-10dm/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ГОСТ 8581-2021"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "11,4-11,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-18"
+        }
+      ],
+      "description": "Для высокофорсированных дизелей сельскохозяйственной, дорожно-строительной и коммерческой техники, работающих в тяжелых условиях (тракторы, тяжелые грузовики, спецтехника). Соответствует API CD."
+    },
+    {
+      "slug": "maslo-motornoe-dlya-avtotraktornyh-dizelej-m-10g2",
+      "name": "Масло моторное для автотракторных дизелей М-10Г2",
+      "article": "ГОСТ 8581-2021",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-dlya-avtotraktornyh-dizelej-m-10g2/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ГОСТ 8581-2021"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "10,5-11,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": "Минеральное, всесезонное. Соответствует API CC. Для дизельных двигателей сельскохозяйственной, дорожно-строительной и коммерческой техники (тракторы, комбайны, грузовики, автобусы) с умеренным наддувом и без него."
+    },
+    {
+      "slug": "maslo-motornoe-classic-universal-sae-10w-40-api-sl-cf-4",
+      "name": "Масло моторное Classic Universal SAE 10w-40 API SL/CF-4",
+      "article": "ТУ BY 691772248.003-2023",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-classic-universal-sae-10w-40-api-sl-cf-4/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.003-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "12,5-16,3"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-30"
+        }
+      ],
+      "description": "Всесезонное. SAE 10w-40 (рабочие температуры: от -25°C до +40°C). Для бензиновых и дизельных двигателей легковых автомобилей, микроавтобусов и легкой коммерческой техники с пробегом."
+    },
+    {
+      "slug": "maslo-motornoe-classic-universal-sae-15w-40-api-sl-cf-4",
+      "name": "Масло моторное Classic Universal SAE 15w-40 API SL/CF-4",
+      "article": "ТУ BY 691772248.003-2023",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-classic-universal-sae-15w-40-api-sl-cf-4/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.003-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "12,5-16,3"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-27"
+        }
+      ],
+      "description": "Всесезонное. SAE 15w-40 (рабочие температуры: от -20°C до +40°C). Для бензиновых и дизельных двигателей легковых автомобилей, микроавтобусов, легкой коммерческой и сельскохозяйственной техники с пробегом."
+    },
+    {
+      "slug": "maslo-motornoe-lux-sae-10w-40-api-sl-ci-4",
+      "name": "Масло моторное Lux SAE 10w-40 API SL/CI-4",
+      "article": "ТУ BY 691772248.003-2023",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-lux-sae-10w-40-api-sl-ci-4/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.003-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "12,5-16,3"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-30"
+        }
+      ],
+      "description": "Всесезонное. SAE 10w-40 (рабочие температуры: от -25°C до +40°C). Для бензиновых и дизельных двигателей легковых автомобилей, внедорожников и коммерческой техники, включая турбированные и работающие в тяжелых условиях."
+    },
+    {
+      "slug": "maslo-motornoe-lux-sae-15w-40-api-sl-ci-4",
+      "name": "Масло моторное Lux SAE 15w-40 API SL/CI-4",
+      "article": "ТУ BY 691772248.003-2023",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-lux-sae-15w-40-api-sl-ci-4/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.003-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "12,5-16,3"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-27"
+        }
+      ],
+      "description": "Всесезонное. SAE 15w-40 (рабочие температуры: от -20°C до +40°C). Для бензиновых и дизельных двигателей легковых автомобилей, внедорожников, коммерческой и сельскохозяйственной техники, включая турбированные."
+    },
+    {
+      "slug": "maslo-motornoe-m-14-v2",
+      "name": "Масло моторное М-14-В2",
+      "article": "ГОСТ 12337-2020",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-m-14-v2/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ГОСТ 12337-2020"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "13,5-14,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        }
+      ],
+      "description": "Всесезонное. SAE 40 (вязкость 13,5-14,5 мм²/с при 100°С). Для высокооборотных дизелей без турбонаддува (тяжелые грузовики, тракторы, комбайны)."
+    },
+    {
+      "slug": "maslo-motornoe-mt-16p",
+      "name": "Масло моторное МТ-16П",
+      "article": "ГОСТ 6360-2020",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-mt-16p/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ГОСТ 6360-2020"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "15,5-16,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-25"
+        }
+      ],
+      "description": "Всесезонное. Минеральное. Вязкость 15,5-16,5 мм²/с при 100°С. Рабочие температуры: от -20°С до +50°С. Для высоконагруженных дизелей спецтехники (танковые, тракторные двигатели, промоборудование)."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hlp-32",
+      "name": "Масло гидравлическое HLP-32",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hlp-32/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "28,8-35,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-29"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,2"
+        }
+      ],
+      "description": "Для гидравлических систем подъемников, прессов, домкратов на СТО."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hlp-68",
+      "name": "Масло гидравлическое HLP-68",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hlp-68/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "61,2-74,8"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-25"
+        }
+      ],
+      "description": "Для высоконагруженных гидравлических систем тяжелого оборудования: автоподъемники, прессы большой мощности, гидравлические пресс-ножницы, станки, а также для систем, работающих при повышенных температурах и давлениях."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hlp-100",
+      "name": "Масло гидравлическое HLP-100",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hlp-100/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "90,0-110,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-25"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,2"
+        }
+      ],
+      "description": "Для тяжелых гидравлических систем с высокими нагрузками: мощные прессы, крупные подъемники, металлорежущие станки, литейное оборудование."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-mge-46v",
+      "name": "Масло гидравлическое МГЕ-46В",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-mge-46v/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "41,4-50,6"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-29"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,2"
+        }
+      ],
+      "description": "Для гидравлических систем стационарного и мобильного оборудования на СТО и производстве: подъемники, прессы, станки, гидроборты. Всесезонное масло для умеренного климата."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-vmgz",
+      "name": "Масло гидравлическое ВМГЗ",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-vmgz/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "13,5-30,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-40"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,5"
+        }
+      ],
+      "description": "Для гидравлических систем, работающих при низких температурах: автоподъемники, гидроборты, спецтехника, домкраты и прессы в неотапливаемых помещениях и на открытом воздухе в зимний период."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-vmgz-45",
+      "name": "Масло гидравлическое ВМГЗ-45",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-vmgz-45/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "13,5-24,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-45"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,1"
+        }
+      ],
+      "description": "Для гидравлических систем, работающих при низких температурах: автоподъемники, гидроборты, спецтехника, домкраты и прессы в неотапливаемых помещениях и на открытом воздухе в зимний период."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-vmgz-60",
+      "name": "Масло гидравлическое ВМГЗ-60",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-vmgz-60/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "13,5-24,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-60"
+        }
+      ],
+      "description": "Для гидравлических систем, работающих в условиях умеренного климата: автоподъемники, гидроборты, спецтехника, прессы и другое оборудование на открытом воздухе и в неотапливаемых помещениях."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-mge-10a",
+      "name": "Масло гидравлическое МГЕ-10А",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-mge-10a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-55"
+        }
+      ],
+      "description": "Для малонагруженных гидравлических систем и узлов трения: направляющие скольжения металлорежущих станков, системы смазки подшипников, легкие гидроприводы, амортизаторы, а также для разбавления высоковязких масел."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-marki-a",
+      "name": "Масло гидравлическое марки А",
+      "article": "ТУ BY 691772248.010-2024",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-marki-a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.010-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "30,0-45,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-40"
+        }
+      ],
+      "description": "Для всесезонной эксплуатации в гидромеханических системах, автоматических коробках передач, гидростатических приводах при температурах до -35°С. Применяется в металлорежущих станках, шлифовальных станках, подшипниках качения и скольжения, малонагруженных зубчатых передачах."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-marki-r",
+      "name": "Масло гидравлическое марки Р",
+      "article": "ТУ BY 691772248.010-2024",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-marki-r/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.010-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "17,0-22,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-45"
+        }
+      ],
+      "description": "Для гидравлических систем промышленного оборудования, работающих при умеренных нагрузках: металлорежущие станки, прессы, литьевые машины, автоматические линии, а также в качестве рабочей жидкости в объемных гидроприводах."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hvlp-22",
+      "name": "Масло гидравлическое HVLP-22",
+      "article": "ТУ BY 691772248.010-2024",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hvlp-22/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.010-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "19,8-24,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-39"
+        }
+      ],
+      "description": "Для гидравлических систем, работающих в широком диапазоне температур и в условиях холодного климата: строительная, дорожная, коммунальная техника, автоподъемники, гидроборты, оборудование СТО, работающее на открытом воздухе или в неотапливаемых помещениях."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hvlp-32",
+      "name": "Масло гидравлическое HVLP-32",
+      "article": "ТУ BY 691772248.010-2024",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hvlp-32/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.010-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "28,8-35,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-30"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,2"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hlp-46",
+      "name": "Масло гидравлическое HLP-46",
+      "article": "ТУ BY 691772248.002-2023",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hlp-46/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.002-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "41,4-50,6"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-29"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,2"
+        }
+      ],
+      "description": "Для гидравлических систем подъемников, прессов, домкратов и другого оборудования на СТО."
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hvlp-46",
+      "name": "Масло гидравлическое HVLP-46",
+      "article": "ТУ BY 691772248.010-2024",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hvlp-46/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.010-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "41,4-50,6"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-27"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,2"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-hvlp-68",
+      "name": "Масло гидравлическое HVLP-68",
+      "article": "ТУ BY 691772248.010-2024",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-hvlp-68/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.010-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "61,2-74,8"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-24"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-gidravlicheskoe-mgt",
+      "name": "Масло гидравлическое МГТ",
+      "article": "ТУ 38.1011103-87",
+      "category": "Гидравлическое масло",
+      "categorySlug": "gidravlicheskoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-gidravlicheskoe-mgt/",
+      "specs": [
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "6,0-7,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-55"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-motornoe-universalnoe-m-8v",
+      "name": "Масло моторное универсальное М-8В",
+      "article": "ГОСТ 10541-2020",
+      "category": "Моторное масло",
+      "categorySlug": "motornoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-motornoe-universalnoe-m-8v/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ГОСТ 10541-2020"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "7,5-8,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-25"
+        }
+      ],
+      "description": "Для бензиновых и дизельных двигателей техники, не оснащенной системами нейтрализации отработавших газов (ВАЗ, ГАЗ, УАЗ, МТЗ, бюджетные иномарки до 2000-х годов). Соответствует требованиям API SD/CB и SAE 20."
+    },
+    {
+      "slug": "maslo-transmissionnoe-tep-15",
+      "name": "Масло трансмиссионное ТЭП-15",
+      "article": "ТУ BY 691772248.004-2023",
+      "category": "Трансмиссионное масло",
+      "categorySlug": "transmissionnoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/03/kupit-maslo-tep-15-bochka.800x600w.jpg",
+      "imageWidth": 338,
+      "imageHeight": 350,
+      "sourceUrl": "https://volar.by/maslo-transmissionnoe-tep-15/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.004-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "14,0-16,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-18"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-transmissionnoe-gl-5-80w90",
+      "name": "Масло трансмиссионное GL-5 80W90",
+      "article": "ТУ BY 691772248.004-2023",
+      "category": "Трансмиссионное масло",
+      "categorySlug": "transmissionnoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/03/kupit-maslo-gl5-sae-80w-90-bochka.800x600w.jpg",
+      "imageWidth": 338,
+      "imageHeight": 350,
+      "sourceUrl": "https://volar.by/maslo-transmissionnoe-gl-5-80w90/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.004-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "13,5-18,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-26"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-transmissionnoe-tap-15v-2",
+      "name": "Масло трансмиссионное ТАп-15В",
+      "article": "ГОСТ 23652-2023",
+      "category": "Трансмиссионное масло",
+      "categorySlug": "transmissionnoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/03/kupit-maslo-tap15v-bochka.800x600w.jpg",
+      "imageWidth": 338,
+      "imageHeight": 350,
+      "sourceUrl": "https://volar.by/maslo-transmissionnoe-tap-15v-2/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ГОСТ 23652-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "14,0-16,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-20"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-transmissionnoe-sinteticheskoe-sae-75w90-api-gl-4-gl-5",
+      "name": "Масло трансмиссионное синтетическое SAE 75W90 API GL-4/GL-5",
+      "article": "ТУ BY 691772248.004-2023",
+      "category": "Трансмиссионное масло",
+      "categorySlug": "transmissionnoe-maslo",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-transmissionnoe-sinteticheskoe-sae-75w90-api-gl-4-gl-5/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.004-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "13,5-18,5"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-40"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-igp-114",
+      "name": "Масло индустриальное ИГП-114",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-igp-114/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "186,0-205,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-igp-72",
+      "name": "Масло индустриальное ИГП-72",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-igp-72/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "110,0-125,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-i-8a",
+      "name": "Масло индустриальное И-8А",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-i-8a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "9,0-11,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-igp-18",
+      "name": "Масло индустриальное ИГП-18",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-igp-18/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "24,0-30,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-i-20a",
+      "name": "Масло индустриальное И-20А",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/03/kupit-maslo-i-20a-bochka.800x600w.jpg",
+      "imageWidth": 338,
+      "imageHeight": 350,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-i-20a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "29,0-35,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-igp-38",
+      "name": "Масло индустриальное ИГП-38",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/03/kupit-maslo-igp-38-bochka.800x600w.jpg",
+      "imageWidth": 338,
+      "imageHeight": 350,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-igp-38/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "55,0-65,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-igp-30",
+      "name": "Масло индустриальное ИГП-30",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-igp-30/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "39,0-50,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-i-50a",
+      "name": "Масло индустриальное И-50А",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/03/volga-oil-10w40.800x600w_1.800x600w.jpg",
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-i-50a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "90,0-110,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-i-30a",
+      "name": "Масло индустриальное И-30А",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-i-30a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "41,0-51,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-i-40a",
+      "name": "Масло индустриальное И-40А",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/03/kupit-maslo-i-40a-bochka.800x600w.jpg",
+      "imageWidth": 338,
+      "imageHeight": 350,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-i-40a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "61,0-75,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "0,05"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-igp-49",
+      "name": "Масло индустриальное ИГП-49",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-igp-49/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "76,0-85,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-industrialnoe-i-12a",
+      "name": "Масло индустриальное И-12А",
+      "article": "ТУ BY 691772248.005-2023",
+      "category": "Масло индустриальное",
+      "categorySlug": "maslo-industrialnoe",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-industrialnoe-i-12a/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.005-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "13,0-17,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-kompressornoe-ks-19",
+      "name": "Масло компрессорное КС-19",
+      "article": "ТУ BY 691772248.007-2023",
+      "category": "Масло компрессорное",
+      "categorySlug": "maslo-kompressornoe",
+      "image": "https://volar.by/wp-content/uploads/2025/03/ks-19.800x600w.800x600w.png",
+      "imageWidth": 362,
+      "imageHeight": 430,
+      "sourceUrl": "https://volar.by/maslo-kompressornoe-ks-19/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.007-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "18,0-22,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-kompressornoe-ks-19p",
+      "name": "Масло компрессорное КС-19П",
+      "article": "ТУ BY 691772248.007-2023",
+      "category": "Масло компрессорное",
+      "categorySlug": "maslo-kompressornoe",
+      "image": "https://volar.by/wp-content/uploads/2025/03/ks-19.800x600w.800x600w.png",
+      "imageWidth": 362,
+      "imageHeight": 430,
+      "sourceUrl": "https://volar.by/maslo-kompressornoe-ks-19p/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.007-2023"
+        },
+        {
+          "label": "Кинематическая вязкость при 100°С",
+          "value": "18,0-24,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-czepnoe-dlya-benzopil-letnee",
+      "name": "Масло цепное для бензопил Летнее",
+      "article": "ТУ BY 691772248.009-2024",
+      "category": "Масла цепные",
+      "categorySlug": "masla-czepnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-czepnoe-dlya-benzopil-letnee/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.009-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "61,2-75,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-14"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-czepnoe-dlya-benzopil-zimnee",
+      "name": "Масло цепное для бензопил Зимнее",
+      "article": "ТУ BY 691772248.009-2024",
+      "category": "Масла цепные",
+      "categorySlug": "masla-czepnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-czepnoe-dlya-benzopil-zimnee/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.009-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "61,2-75,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-30"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-dlya-harvesterov-letnee",
+      "name": "Масло для харвестеров Летнее",
+      "article": "ТУ BY 691772248.009-2024",
+      "category": "Масла цепные",
+      "categorySlug": "masla-czepnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-dlya-harvesterov-letnee/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.009-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "61,2-75,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-14"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-dlya-harvesterov-zimnee",
+      "name": "Масло для харвестеров Зимнее",
+      "article": "ТУ BY 691772248.009-2024",
+      "category": "Масла цепные",
+      "categorySlug": "masla-czepnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-dlya-harvesterov-zimnee/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.009-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "61,2-75,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-30"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-reduktornoe-clp-100",
+      "name": "Масло редукторное CLP-100",
+      "article": "ТУ BY 691772248.011-2024",
+      "category": "Масла редукторные",
+      "categorySlug": "masla-reduktornye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-reduktornoe-clp-100/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.011-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "90,0-110,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,6"
+        }
+      ],
+      "description": "в редукторах и подшипниках по паспорту оборудования."
+    },
+    {
+      "slug": "maslo-reduktornoe-clp-460",
+      "name": "Масло редукторное CLP-460",
+      "article": "ТУ BY 691772248.011-2024",
+      "category": "Масла редукторные",
+      "categorySlug": "masla-reduktornye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-reduktornoe-clp-460/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.011-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "414,0-506,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-reduktornoe-clp-220",
+      "name": "Масло редукторное CLP-220",
+      "article": "ТУ BY 691772248.011-2024",
+      "category": "Масла редукторные",
+      "categorySlug": "masla-reduktornye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-reduktornoe-clp-220/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.011-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "198,0-242,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,6"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-reduktornoe-clp-320",
+      "name": "Масло редукторное CLP-320",
+      "article": "ТУ BY 691772248.011-2024",
+      "category": "Масла редукторные",
+      "categorySlug": "masla-reduktornye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-reduktornoe-clp-320/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.011-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "288,0-352,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,6"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-reduktornoe-clp-150",
+      "name": "Масло редукторное CLP-150",
+      "article": "",
+      "category": "Масла редукторные",
+      "categorySlug": "masla-reduktornye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-reduktornoe-clp-150/",
+      "specs": [
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "135,0-165,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "1,6"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-turbinnoe-tp-22s-marki-1",
+      "name": "Масло турбинное ТП-22с марки 1",
+      "article": "ТУ BY 691772248.014-2024",
+      "category": "Масла турбинные",
+      "categorySlug": "masla-turbinnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-turbinnoe-tp-22s-marki-1/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.014-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "28,8-35,2"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        },
+        {
+          "label": "Кислотное число, мг КОН/г",
+          "value": "0,07"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-zakalochnoe-mzm-26",
+      "name": "Масло закалочное МЗМ-26",
+      "article": "ТУ BY 691772248.016-2024",
+      "category": "Масла закалочные",
+      "categorySlug": "masla-zakalochnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-zakalochnoe-mzm-26/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.016-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "35,0-41,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-zakalochnoe-mzm-16",
+      "name": "Масло закалочное МЗМ-16",
+      "article": "ТУ BY 691772248.016-2024",
+      "category": "Масла закалочные",
+      "categorySlug": "masla-zakalochnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-zakalochnoe-mzm-16/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.016-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "20,0-30,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "slug": "maslo-zakalochnoe-mzm-120",
+      "name": "Масло закалочное МЗМ-120",
+      "article": "ТУ BY 691772248.016-2024",
+      "category": "Масла закалочные",
+      "categorySlug": "masla-zakalochnye",
+      "image": "https://volar.by/wp-content/uploads/2025/02/logo.png",
+      "imageWidth": 61,
+      "imageHeight": 61,
+      "sourceUrl": "https://volar.by/maslo-zakalochnoe-mzm-120/",
+      "specs": [
+        {
+          "label": "Технические условия",
+          "value": "ТУ BY 691772248.016-2024"
+        },
+        {
+          "label": "Кинематическая вязкость при 40°С",
+          "value": "185,0-210,0"
+        },
+        {
+          "label": "Температура застывания, °С",
+          "value": "-12"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "functions": [
+    {
+      "name": "Телефон (звонок)",
+      "text": "8 (044) 774-41-40",
+      "link": "tel:80447744140"
+    },
+    {
+      "name": "Email (написать письмо)",
+      "text": "2123089@mail.ru",
+      "link": "mailto:2123089@mail.ru"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/"
+    },
+    {
+      "name": "Телефон (звонок)",
+      "text": "+375 (44) 796-81-53",
+      "link": "tel:+375447968153"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/2/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/2/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/3/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/3/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/4/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/4/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/5/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/5/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/6/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/6/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/7/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/7/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/8/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/8/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/9/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/9/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/katalog/page/10/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/katalog/page/10/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/kontakty/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/kontakty/#modal_form"
+    },
+    {
+      "name": "Нерабочая/декоративная ссылка (без текста)",
+      "text": "",
+      "link": "https://volar.by/privacy-policy/"
+    },
+    {
+      "name": "Кнопка «Заказать звонок»",
+      "text": "Заказать звонок",
+      "link": "https://volar.by/privacy-policy/#modal_form"
+    }
+  ],
+  "contacts": {
+    "phones": [
+      "8 (044) 774-41-40",
+      "+375 (44) 796-81-53"
+    ],
+    "email": "2123089@mail.ru"
+  }
+}
